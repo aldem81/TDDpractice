@@ -1,4 +1,4 @@
-package main.java.entities;
+package main.java.entities.apartment;
 
 /**
  * Apartment class.
@@ -6,6 +6,6 @@ package main.java.entities;
  * @author leshak
  *
  */
-public class Apartment {
+class Apartment {
 
 }
