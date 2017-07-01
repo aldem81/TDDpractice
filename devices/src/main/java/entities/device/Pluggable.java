@@ -17,4 +17,11 @@ public interface Pluggable {
      * Unplugging device.
      */
     void unplug();
+
+    /**
+     * Checking whether a device is plugged.
+     *
+     * @return  isPlugged
+     */
+    boolean isPlugged();
 }
